@@ -1,7 +1,7 @@
 // CPPfinalProgramDemo01.cpp
-// dH 4/10/23
+// Adrian Riofrio 5/17/23
 // Animal class definition by chatGPT
-// modified by dH 4/13/23
+// modified by Adrian Riofrio 5/17/23
 
 // Understand pointers and linked lists.
 // Create a linked list of animals
